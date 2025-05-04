@@ -35,7 +35,7 @@ This project builds a Grammar Scoring Engine that predicts a MOS (Mean Opinion S
   ...
 
 - Visualization:  
-  ![Prediction Visualization]![image](https://github.com/user-attachments/assets/d2e5e912-028a-41c9-90fe-e72374378092)
+  ![image](https://github.com/user-attachments/assets/e3097b9e-d416-443b-94d7-d440f7a90c85)
 
 ---
 
