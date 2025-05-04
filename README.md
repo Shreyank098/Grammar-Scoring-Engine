@@ -59,7 +59,7 @@ This project builds a Grammar Scoring Engine that predicts a MOS (Mean Opinion S
 ---
 ### Model
 
-The trained model, `grammar_scoring_model.pkl`, is included in this repository. It can be used for making predictions on new audio files.
+The trained model, `grammar_scoring_model.pkl`, is included in this repository. It can be used for making predictions on new audio files. It stores when the code is executed.
 ---
 
 👨‍💻 Author
