@@ -1,1 +1,12 @@
+## 📥 Dataset
+
+The dataset for this project is available from the Kaggle competition. You can download it using the following link:
+
+[Kaggle Competition - SHL Intern Hiring Assessment Dataset](https://www.kaggle.com/competitions/shl-intern-hiring-assessment/data)
+
+### Instructions:
+1. Visit the Kaggle competition page.
+2. Click on "Download All" to get the dataset.
+3. Place the dataset in the `data/` folder of this repository.
+4. Follow the instructions in the notebook to train and evaluate the model.
 
