@@ -12,26 +12,6 @@ This project builds a Grammar Scoring Engine that predicts a MOS (Mean Opinion S
 
 ---
 
-## 🗂️ Project Structure
-
-Grammar-Scoring-Engine/
-├── data/
-│   ├── train.csv            # Contains training filenames and MOS labels
-│   ├── test.csv             # Contains test filenames
-│   └── audios/
-│       ├── train/           # All training audio .wav files
-│       └── test/            # All test audio .wav files
-├── notebooks/
-│   └── Grammar_Scoring_Model.ipynb
-├── src/
-│   ├── feature_extraction.py
-│   └── model.py
-├── grammar_scoring_model.pkl
-├── requirements.txt
-└── README.md
-
----
-
 ## 📥 Input Example
 
 - train/
@@ -55,7 +35,7 @@ Grammar-Scoring-Engine/
   ...
 
 - Visualization:  
-  ![Prediction Visualization](https://github.com/user/repo/assets/example-predictions.png) 
+  ![Prediction Visualization]![image](https://github.com/user-attachments/assets/d2e5e912-028a-41c9-90fe-e72374378092)
 
 ---
 
