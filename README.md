@@ -57,6 +57,10 @@ This project builds a Grammar Scoring Engine that predicts a MOS (Mean Opinion S
 - Kaggle Public Score: 0.570  
 
 ---
+### Model
+
+The trained model, `grammar_scoring_model.pkl`, is included in this repository. It can be used for making predictions on new audio files.
+---
 
 👨‍💻 Author
 K Shreyank
